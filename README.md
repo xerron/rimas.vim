@@ -37,6 +37,16 @@ Mostrar rimas asonantes:
 
     :RimaAsonante [v|c] [numero] <palabra>
 
+## Keymaps
+
+Rima consonante
+
+    <Localleader>r
+
+Rima Asonante
+
+    <Localleader>R
+
 ## Licencia
 
 MIT.
