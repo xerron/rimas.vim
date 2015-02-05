@@ -1,0 +1,41 @@
+*rimas.txt* Documentation for rimas.vim
+
+Script  :   g.vim  - open rimas dicctionaries.
+Autor   :   E. Manuel Cerrón Angeles
+Email   :   <xerron.angels@gmail.com>
+Changed :   2015-02-04 
+============================================================
+                                           *rimas-intro*
+
+1. Overview~
+TODO
+
+1. Overview                         |rimas-intro|
+2. Mappings                         |rimas-mappings|
+3. Functions                        |rimas-functions|
+4. Todo                             |rimas-todo|
+
+===========================================================
+                                        *rimas-mappings*
+
+2. Mappings~
+TODO
+
+===========================================================
+                                        *rimas-function*
+
+3. Functions~
+
+MyglobalfunctionB()~
+This function is one of the global functions in this script.
+An example of usage could be: >
+    :call MyglobalfunctionB()
+<
+    Vim returns:
+    Hello from MyglobalfuncionC() now calling locally:~
+    This is the script-scope function MyfunctionA speaking~
+
+===========================================================
+                                        *rimas-todo*
+
+4. Todo~
