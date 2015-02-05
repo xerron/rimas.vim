@@ -1,7 +1,9 @@
 # rimas.vim
 
 Diccionario de rimas para Vim.
-Esta es una herramienta muy util para los poetas mallditos como yo.
+Esta es una herramienta muy util para los poetas malditos como yo.
+
+![sin nombre - gvim1_009](https://cloud.githubusercontent.com/assets/1724033/6056518/f5ade0ea-acdf-11e4-8280-a8416bf43f54.png)
 
 ## Dependencias
 
