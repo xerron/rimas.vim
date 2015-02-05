@@ -7,20 +7,33 @@ Esta es una herramienta muy util para los poetas mallditos como yo.
 
 https://github.com/xerron/merimas
 
-Debe estar en el path del sistema.
+## Configuración
+
+Establecer el path a merimas.jar
+
+    let g:rimas_merimas_path = /path/to/merimas/
 
 ## Uso
 
-Mostrar rimas para una palabra:
+Mostrar rimas consonantes para una palabra:
 
     :Rima <palabra>
 
-Cerrar la ventana:
+Mostrar rimas consonantes con n silabas:
 
-    :Rima! 
+    :Rima [numero] <palabra>
 
-## #Ejemplos avanzados:
+Mostrar rimas consonantes que comienzan con vocal(c) o consonante(c)
 
+    :Rima [v|c] <palabra>
+
+Un ejemplo mas completo:
+
+    :Rima [v|c] [numero] <palabra>
+
+Mostrar rimas asonantes:
+
+    :RimaAsonante [v|c] [numero] <palabra>
 
 ## Licencia
 
